@@ -7,7 +7,7 @@
 
 :root {
     --primary-color: rgb(172, 33, 33);
-    --text-dark: black;
+    --text-dark: white;
     --text-light: #692626;
     --bg-light: rgb(206, 24, 85);
 }
